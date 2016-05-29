@@ -4,6 +4,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ImageList from './components/image_list';
+
 //New ES6 syntax for -> var React = require('react');
 
 // Create a component: a component in React is a simple function
